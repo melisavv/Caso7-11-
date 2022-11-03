@@ -1,2 +1,2 @@
 # Caso7-11-
-Crear un triángulo con círculos pequeños.
+Ponerle imagen a los círculos.
