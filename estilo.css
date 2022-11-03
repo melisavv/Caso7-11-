@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+}
+#circulo{
+    width: 65px;
+    height: 65px;
+    background-image: url(img/perritos.png);
+    border-radius: 50%;
+    float: left;
+}
